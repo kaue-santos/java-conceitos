@@ -1,4 +1,4 @@
-package com.admin.catalogo.infrastructure;
+package com.admin.catalogo.infrastructure.introducao;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.

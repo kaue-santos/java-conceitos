@@ -1,4 +1,4 @@
-package com.admin.catalogo.infrastructure;
+package com.admin.catalogo.infrastructure.introducao;
 
 public class Aula05EstruturasCondicionais {
     public static void main(String[] args) {
